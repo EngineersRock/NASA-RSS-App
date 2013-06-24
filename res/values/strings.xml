@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nasa Daily Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_image_title">
+        	P-3B Starts the Day
+    </string>
+    <string name="test_image_date">
+      		bugs
+    </string>
+    <string name="test_image_description">
+        On March 21, 2013, the P-3B waits outside the hangar at 
+        Thule Air Base with the Greenland Ice sheet in the background.
+         IceBridge, a six-year NASA mission, is the largest airborne 
+         survey of Earth\'s polar ice ever flown. It will yield an 
+         unprecedented three-dimensional view of Arctic and Antarctic 
+         ice sheets, ice shelves and sea ice. These flights will 
+         provide a yearly, multi-instrument look at the behavior of 
+         the rapidly changing features of the Greenland and Antarctic 
+         ice. Data collected during IceBridge will help scientists 
+         bridge the gap in polar observations between NASA\'s Ice, 
+         Cloud and Land Elevation Satellite (ICESat)  in orbit 
+         since 2003  and ICESat-2, planned for early 2016. 
+         ICESat stopped collecting science data in 2009, making 
+         IceBridge critical for ensuring a continuous series of 
+         observations. IceBridge will use airborne instruments to map 
+         Arctic and Antarctic areas once a year. IceBridge flights are 
+         conducted in March-May over Greenland and in October-November 
+         over Antarctica. Other smaller airborne surveys around the world 
+         are also part of the IceBridge campaign.
+    </string>
+    <string name="refresh">Refresh</string>
+    <string name="setwallpaper">Set Wallpaper</string>
+
+</resources>
